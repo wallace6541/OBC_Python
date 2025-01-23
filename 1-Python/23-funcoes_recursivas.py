@@ -22,5 +22,5 @@ def total_sum(num):
     else:
         return (num + total_sum(num - 1))
 
-num = int(input("Digite um número para soma \\n"))
+num = int(input("Digite um número para soma \n"))
 print(f"A soma total do {num} é: {total_sum(num)}")

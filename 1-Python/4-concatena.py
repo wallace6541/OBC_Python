@@ -16,4 +16,4 @@ print("====================")
 #       "\\nPreço do Jogo:", gamePrice, "\\nEstá incluso no serviço?", planIncluded)
 
 # Alternativa 3
-print(f"Nome do Jogo: {name} \\nAno Lançamento: {yearLaunch} \\nPreço do Jogo: {gamePrice} \\nEstá incluso no serviço? {planIncluded}")
+print(f"Nome do Jogo: {name} \nAno Lançamento: {yearLaunch} \nPreço do Jogo: {gamePrice} \nEstá incluso no serviço? {planIncluded}")
