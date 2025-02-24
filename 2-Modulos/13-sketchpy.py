@@ -1,6 +1,6 @@
-from sketchpy import libary
+from sketchpy import library
 # object = libary.rdj()
-object = libary.tom_holland()
+object = library.tom_holland()
 # object = libary.ironman_ascii()
 object.draw()
 
